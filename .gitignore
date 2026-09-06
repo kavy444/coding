@@ -1,0 +1,13 @@
+/.vscode
+/c++
+/DSA
+/dsa college
+/hello.txt
+/html
+/java
+/java script
+/practicalclg
+/python
+*.exe
+*.o
+build/
